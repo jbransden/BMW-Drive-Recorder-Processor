@@ -4,7 +4,7 @@
 A GUI that can be used to process the exported ts and json file from BMW Drive Recorder into an mp4 file.
 It utilises [ffmpeg](https://ffmpeg.org/) to process the video into the desired output file.
 
-<img width="398" height="610" alt="image" src="https://github.com/user-attachments/assets/90869317-7872-43d4-8ff8-9fc41f0ed8d3" />
+<img width="398" height="610" alt="image" src="https://github.com/jbransden/BMW-Drive-Recorder-Processor/blob/main/Screenshot-main-window.png" />
 
 ### Features:
 * Converts drive recorder .ts files into any video format supported by ffmpeg
